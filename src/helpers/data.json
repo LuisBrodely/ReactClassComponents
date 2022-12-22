@@ -1,0 +1,24 @@
+{
+  "RedesSociales": [
+    {
+      "id": 1,
+      "nombre": "Facebook",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Instagram",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "nombre": "Whatsapp",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "nombre": "GitHub",
+      "url": ""
+    }
+  ]
+}
